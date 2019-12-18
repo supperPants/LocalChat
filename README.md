@@ -12,3 +12,6 @@
 
 ![](https://github.com/supperPants/LocalChat/blob/master/image/%E6%9C%AC%E5%9C%B0%E8%81%8A%E5%A4%A9%E5%AE%A4.png)
 
+##MCP/1.0协议（MyChatProtocol）
+
+
