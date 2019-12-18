@@ -10,5 +10,5 @@
 
 当用户使用quit命令退出时，会向服务端发送退出包。服务端收到退出包时，会将其从登录用户链表中删除，并关闭用户管道的写段。用户删除自己的私有管道。
 
-
+![](https://github.com/supperPants/LocalChat/blob/master/image/%E6%9C%AC%E5%9C%B0%E8%81%8A%E5%A4%A9%E5%AE%A4.png)
 
