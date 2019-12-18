@@ -12,6 +12,25 @@
 
 ![](https://github.com/supperPants/LocalChat/blob/master/image/%E6%9C%AC%E5%9C%B0%E8%81%8A%E5%A4%A9%E5%AE%A4.png)
 
-##MCP/1.0协议（MyChatProtocol）
+## MCP/1.0协议（MyChatProtocol）
+
+请求包格式：
+
+![](https://github.com/supperPants/LocalChat/blob/master/image/%E8%AF%B7%E6%B1%82%E5%8D%8F%E8%AE%AE.png)
+
+    请求类型：
+      online:登录包
+      chat:聊天包
+      offline:退出包
+
+响应包格式：
+
+![](https://github.com/supperPants/LocalChat/blob/master/image/%E5%93%8D%E5%BA%94%E5%8C%85.png)
+
+    响应类型：
+      info:信息包
+      notonline:不在线包
+  
+  
 
 
